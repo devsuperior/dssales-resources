@@ -12,7 +12,7 @@ https://www.figma.com/file/vnK7024sr7YkEe3QdvAFT6/BDS3-dashboard?node-id=0%3A1
 
 1) instalar as dependências necessárias:
 
-`yarn add  @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-react prettier eslint-config-prettier eslint-plugin-prettier  --dev`
+`yarn add eslint prettier eslint-plugin-react-hooks @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-react eslint-config-prettier eslint-plugin-prettier  --dev`
 
 2) Certifique-se de instalar as extensões do Eslint e Prettier no VSCode
 
