@@ -30,6 +30,10 @@ https://www.figma.com/file/vnK7024sr7YkEe3QdvAFT6/BDS3-dashboard?node-id=0%3A1
 "eslint.alwaysShowStatus": true,
 ```
 
+## React-flatpickr
+- https://flatpickr.js.org/
+- https://github.com/haoxins/react-flatpickr
+
 
 ## Alguns links úteis para quem quiser aprofundar em algum conceito mencionado durante as aulas:
 
