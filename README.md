@@ -40,3 +40,7 @@ https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects
 https://pt-br.reactjs.org/docs/hooks-reference.html#usememo
 
 https://medium.com/@devjpnobrega/primeiros-passos-com-react-hooks-usememo-e-usecallback-13d54da4f9ba
+
+## Box sizing
+
+- http://sergiolopes.org/css-box-sizing-border-box/
