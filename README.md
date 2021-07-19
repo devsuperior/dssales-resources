@@ -36,10 +36,11 @@ https://www.figma.com/file/vnK7024sr7YkEe3QdvAFT6/BDS3-dashboard?node-id=0%3A1
 - ### Como formatar números/preços usando apenas JavaScript
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat
 
-- ## Entendendo o React Hook useMemo
-https://pt-br.reactjs.org/docs/hooks-reference.html#usememo
+## Entendendo o React Hook useMemo
 
-https://medium.com/@devjpnobrega/primeiros-passos-com-react-hooks-usememo-e-usecallback-13d54da4f9ba
+- https://pt-br.reactjs.org/docs/hooks-reference.html#usememo
+
+- https://medium.com/@devjpnobrega/primeiros-passos-com-react-hooks-usememo-e-usecallback-13d54da4f9ba
 
 ## Propriedade  `box-sizing` do CSS
 
