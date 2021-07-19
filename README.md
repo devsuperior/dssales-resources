@@ -41,6 +41,6 @@ https://pt-br.reactjs.org/docs/hooks-reference.html#usememo
 
 https://medium.com/@devjpnobrega/primeiros-passos-com-react-hooks-usememo-e-usecallback-13d54da4f9ba
 
-## Box sizing
+## Propriedade  `box-sizing` do CSS
 
 - http://sergiolopes.org/css-box-sizing-border-box/
