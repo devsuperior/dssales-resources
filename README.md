@@ -34,7 +34,7 @@ https://www.figma.com/file/vnK7024sr7YkEe3QdvAFT6/BDS3-dashboard?node-id=0%3A1
 - https://flatpickr.js.org/
 - https://github.com/haoxins/react-flatpickr
 
-# Apex Charts
+## Apex Charts
 - https://apexcharts.com/
 
 
