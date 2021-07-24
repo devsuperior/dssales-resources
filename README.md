@@ -37,17 +37,12 @@ https://www.figma.com/file/vnK7024sr7YkEe3QdvAFT6/BDS3-dashboard?node-id=0%3A1
 ## Apex Charts
 - https://apexcharts.com/
 
+
 ## High order functions JavaScript e TypeScript
 
-Estes vídeos são necessários para entender:
-- Funções de alta ordem: map, filter, reduce, sort
-- Como essas funções foram aplicadas para transformar os dados a API nos dados necessários para plotar os gráficos
+Esta aula te ajudará entender as funções de ordem superior: map, filter, reduce, sort
 
-#### Parte 1:
 [![Image](https://img.youtube.com/vi/ZYPQmfcZGxg/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/ZYPQmfcZGxg)
-
-#### Parte 2:
-[![Image](https://img.youtube.com/vi/IL9UfTcCXL4/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/IL9UfTcCXL4)
 
 
 ## Alguns links úteis para quem quiser aprofundar em algum conceito mencionado durante as aulas:
