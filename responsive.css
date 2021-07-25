@@ -1,0 +1,77 @@
+@media screen and (max-width: 1200px) {
+  .app-container .sales-overview-container {
+    flex-direction: column;
+  }
+
+  .sales-overview-container .pie-chart-card {
+    width: 100%;
+    margin: 50px 0;
+  }
+
+  .app-container .sales-by-date-container {
+    height: 460px;
+  }
+
+  .sales-by-date-container .sales-by-date-data {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .sales-by-date-data .sales-by-date-quantity-container {
+    margin-top: 10px;
+    margin-bottom: 50px;
+  }
+
+  .sales-by-date-data .sales-by-date-chart {
+    width: 100%;
+  }
+
+  .sales-overview-container .sales-summary-container {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  #root .app-container {
+    padding: 0;
+  }
+
+  .sales-summary-container  .sales-summary-card:nth-of-type(3) {
+    margin-bottom: 45px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .filter-container.base-card {
+    flex-direction: column;
+    height: 150px;
+  }
+
+  .filter-container .filter-input {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .sales-overview-container .sales-summary-container {
+    flex-direction: column;
+  }
+
+  .sales-summary-container .sales-summary-card {
+    width: 100%;
+  }
+}
+
+.sales-table-container {
+  overflow-x: auto;
+}
+
+.sales-table-container table thead th {
+  padding: 10px;
+}
+
+.sales-table-container table tbody td {
+  padding: 10px;
+}
