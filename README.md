@@ -1,8 +1,18 @@
 # dssales-resources
 
-### Criando projeto com o `create-react-app`:
+### Criando projeto
 
-`npx create-react-app front-web --template typescript`
+#### Usando Vite:
+
+```
+yarn create vite dssales-frontend --template react-ts
+```
+
+#### Usando create-react-app:
+
+```
+npx create-react-app dssales-frontend --template typescript
+```
 
 ### Link do projeto no Figma: 
 
